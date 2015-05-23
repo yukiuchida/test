@@ -11,3 +11,6 @@ Monacoのコンソールからpushしてみるよ！
 - [YukiTETSUKA]()
 
  -hogehoge
+ 
+あのー？
+勝負するつもりはないですよ？
