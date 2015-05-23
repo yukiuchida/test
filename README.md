@@ -3,3 +3,5 @@
 Monacoからのpushとpullのテスト用リポジトリ
 
 GitHub側で編集してみたよ！pullしてね！
+
+Monacoのコンソールからpushしてみるよ！
