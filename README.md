@@ -7,6 +7,7 @@ GitHub側で編集してみたよ！pullしてね！
 Monacoのコンソールからpushしてみるよ！
 
 # Collaborators の自己紹介
+- [yukiuchida]()
 - [HiranoRyu]()
 - [YukiTETSUKA]()
 
