@@ -10,13 +10,4 @@ Monacoのコンソールからpushしてみるよ！
 - [HiranoRyu]()
 - [YukiTETSUKA]()
 
-#いじられるのがこわい
-- [YukiTETSUKA]()
-- [HiranoRyu]()
-
-修正したお
-
-もなこぐらんぷり
-
-#リンク貼るお勉強
-- [タバコすいたい](http://www.tabako-sakuranbo.co.jp/goods/goods-1020.php)
+ -hogehoge
