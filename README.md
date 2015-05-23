@@ -1,1 +1,3 @@
 # push_pull_test
+
+Monacoからのpushとpullのテスト用リポジトリ
